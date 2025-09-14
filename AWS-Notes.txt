@@ -1,0 +1,57 @@
+aistudio.google.com - build the application code for front/backend
+https://stitch.withgoogle.com/ - UI design
+Supabase - serverless database
+
+
+AWS - Amazon Web Service - Provider
+-------------------------
+
+what is cloud? scalability, cost-savings, reliability
+
+Cloud Providers:
+-------------------
+AWS, Azure, Google Cloud, Oracle cloud, IBM cloud etc..
+
+
+Types Of Clouds:
+------------------
+Public
+Private
+
+Storage System:
+-------------------
+SAN - Storage Area Network (Data storage)
+NFS - Network File System (Shared storage)
+Object Storage (Single file)
+
+
+CDN - Content Distribute Network (Edge location)
+
+AWS
+----------
+Region
+Availability Zone(AZ)
+Edge 
+
+Networking:
+--------------
+Internet (LAN/WAN)
+Router
+IP-Internet Protocal
+Gateway
+Security - blocking /Allowing
+
+IAM - Identity Access Management:
+---------------------------------------
+Athentication
+Atherization
+
+Users, Group, Roles, Policies
+
+
+
+
+
+
+
+
