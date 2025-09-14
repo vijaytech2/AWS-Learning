@@ -1,8 +1,3 @@
-aistudio.google.com - build the application code for front/backend
-https://stitch.withgoogle.com/ - UI design
-Supabase - serverless database
-
-
 AWS - Amazon Web Service - Provider
 -------------------------
 
