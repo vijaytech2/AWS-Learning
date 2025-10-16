@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aistudio.google.com - build the application code for front/backend
 https://stitch.withgoogle.com/ - UI design
 Supabase - serverless database
@@ -6,6 +7,8 @@ Supabase - serverless database
 
 AWS cloud, or Amazon Web Services, is a cloud computing platform that provides a vast array of IT services over the internet on a pay-as-you-go basis. Instead of buying and maintaining their own physical servers and data centers, businesses and individuals can "rent" these computing resources like storage, databases, and processing power from Amazon, enabling them to move faster and lower IT costs. AWS offers a comprehensive suite of services that include database options, networking, mobile development, and security.
 
+=======
+>>>>>>> 886e1b9c7849ff5c5fb756b57e34784ee63e2cd9
 AWS - Amazon Web Service - Provider
 -------------------------
 
