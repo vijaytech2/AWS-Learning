@@ -3,6 +3,9 @@ https://stitch.withgoogle.com/ - UI design
 Supabase - serverless database
 
 
+
+AWS cloud, or Amazon Web Services, is a cloud computing platform that provides a vast array of IT services over the internet on a pay-as-you-go basis. Instead of buying and maintaining their own physical servers and data centers, businesses and individuals can "rent" these computing resources like storage, databases, and processing power from Amazon, enabling them to move faster and lower IT costs. AWS offers a comprehensive suite of services that include database options, networking, mobile development, and security.
+
 AWS - Amazon Web Service - Provider
 -------------------------
 
@@ -41,12 +44,22 @@ IP-Internet Protocal
 Gateway
 Security - blocking /Allowing
 
-IAM - Identity Access Management:
+IAM - Identity and Access Management:
 ---------------------------------------
 Athentication
 Atherization
 
 Users, Group, Roles, Policies
+
+___________________________________
+
+Server (EC2-VM)
+Serverless (Lambda,RDS, Dynamodb) - low cost
+
+-------------------------------------------
+ IAAS - Infrastracture as a Service (h/w, server, os)
+ PAAS - Platform as a Service (runtime, middleware)
+ SAAS - Software as a Service (s/w, app)
 
 
 
