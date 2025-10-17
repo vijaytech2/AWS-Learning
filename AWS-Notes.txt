@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 aistudio.google.com - build the application code for front/backend
 https://stitch.withgoogle.com/ - UI design
 Supabase - serverless database
@@ -7,8 +6,6 @@ Supabase - serverless database
 
 AWS cloud, or Amazon Web Services, is a cloud computing platform that provides a vast array of IT services over the internet on a pay-as-you-go basis. Instead of buying and maintaining their own physical servers and data centers, businesses and individuals can "rent" these computing resources like storage, databases, and processing power from Amazon, enabling them to move faster and lower IT costs. AWS offers a comprehensive suite of services that include database options, networking, mobile development, and security.
 
-=======
->>>>>>> 886e1b9c7849ff5c5fb756b57e34784ee63e2cd9
 AWS - Amazon Web Service - Provider
 -------------------------
 
@@ -36,8 +33,12 @@ CDN - Content Distribute Network (Edge location)
 AWS
 ----------
 Region
-Availability Zone(AZ)
-Edge 
+Availability Zone(AZ) - data centers
+Edge location
+
+Region can be two or more data centers for High Availability
+
+
 
 Networking:
 --------------
@@ -54,6 +55,11 @@ Atherization
 
 Users, Group, Roles, Policies
 
+Policies - Setup of permisions to respective resources.
+
+AD - Active Directory
+DNS (Domain Name Service)(hcltech.com)
+
 ___________________________________
 
 Server (EC2-VM)
@@ -63,6 +69,35 @@ Serverless (Lambda,RDS, Dynamodb) - low cost
  IAAS - Infrastracture as a Service (h/w, server, os)
  PAAS - Platform as a Service (runtime, middleware)
  SAAS - Software as a Service (s/w, app)
+ 
+ -------------------------------------------------
+ what is aws region?- refer the documents
+ 
+ Service, Resources
+ 
+ what is aws resources?
+ what is aws Services?
+ 
+ -------------------------------------
+
+Global based resources (IAM, S3, Route 53(DNS), etc )
+Region based resources
+
+---------------------------------------
+IP - Internet Protocal
+TCP - Transmission control protocal
+UDP - User Datagram Protocal
+
+what is tcp and udp? -- Refer the documents
+
+--------------------------------------------
+
+S3 - Simple Storage Service
+
+type of storage?
+Block storage
+NFS storage
+Object storage
 
 
 
