@@ -90,6 +90,11 @@ UDP - User Datagram Protocal
 
 what is tcp and udp? -- Refer the documents
 
+rdp - 3389
+ssh - 22
+http - 80
+https - 443
+
 --------------------------------------------
 
 S3 - Simple Storage Service
