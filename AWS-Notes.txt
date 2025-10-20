@@ -38,7 +38,7 @@ Edge location
 
 Region can be two or more data centers for High Availability
 
-
+We can access the AWS resources via AWS Console, AWS CLI and AWS SDK
 
 Networking:
 --------------
@@ -72,8 +72,11 @@ Serverless (Lambda,RDS, Dynamodb) - low cost
  
  -------------------------------------------------
  what is aws region?- refer the documents
+ Mumbai     - ap-south-1 (AZ1, AZ2, AZ3)
+ N.Virginia - us-east-1
+ Irland     - eu-west-1
  
- Service, Resources
+ AWS Services, Resources
  
  what is aws resources?
  what is aws Services?
@@ -99,10 +102,26 @@ https - 443
 
 S3 - Simple Storage Service
 
+S3 is a object storage (file, image, doc etc) - it can stored upto 5TB.
+
+S3 bucket name should be unique name globally. 
+
+
 type of storage?
 Block storage
 NFS storage
 Object storage
+
+Encryption/Decryption:
+
+S3 storage Classes or types:
+1. Standard
+2. Standard IA (Infrequent Access)
+3. S3 Glacier
+
+ARN
+s3://iswarya-test-102025
+
 
 
 
