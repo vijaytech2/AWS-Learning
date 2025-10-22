@@ -107,10 +107,13 @@ S3 is a object storage (file, image, doc etc) - it can stored upto 5TB.
 S3 bucket name should be unique name globally. 
 
 
-type of storage?
+Storage Types:
 Block storage
 NFS storage
 Object storage
+
+SAN - Storage Array Network
+NAS - Network Attached Storage
 
 Encryption/Decryption:
 
@@ -121,6 +124,7 @@ S3 storage Classes or types:
 
 ARN
 s3://iswarya-test-102025
+
 
 
 
